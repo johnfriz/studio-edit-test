@@ -1,1 +1,5 @@
-var config = {};
+var config = {
+  "tabData" : {
+  
+  }  
+};
