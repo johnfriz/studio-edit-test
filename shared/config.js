@@ -30,4 +30,4 @@ var config = {
   }
 };
 
-exports.config = config;
+//exports.config = config;
